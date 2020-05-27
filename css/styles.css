@@ -1,11 +1,15 @@
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
+  font-style: bold;
+  line-height: 50px;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  color: pink;
+  font-weight: 200px;
 }
 
 p {
